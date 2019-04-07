@@ -1,15 +1,18 @@
-# Practica 1
-En el archivo README del repositorio debe constar la misma información del informe de resultados de la práctica que se indica en el siguiente punto. 
 <h1>RESULTADO(S) OBTENIDO(S)</h1>
 <ul>
-  <li> Tener el conocimiento suficiente para que el estudiante pueda entender
-y organizar de una mejor manera los sitios de web y de negocios en Internet </li>
+    <li>Conocer la estructura de una página con HTML.</li>
+    <li>Conocer mejor el lenguaje de etiquetado HTML.</li>
+    <li>Organizar los elementos de una página Web.</li>
+    <li>Diseño de nuestro propio Web Blog con HTML.</li>
 </ul>
 <h1>CONCLUSIONES</h1>
 <ul>
-  <li> Los estudiantes podrán organizar sitios web basados en el lenguaje de etiquetado HTML </li>
+  <li>Gracias al lenguaje de Etiquetado HTML podemos organizar mejor la estructura de una página web.</li>
 </ul>
 <h1>RECOMENDACIONES</h1>
 <ul>
-  <li>Probar la solución de la práctica en al menos tres navegadores web; Google Chrome, Firefox y Safari</li>
+    <li>Verificar la estructura de los documentos HTML.</li>
+    <li>Comprobar el correcto uso de las etiquetas.</li>
+    <li>Probar en diferentes navegadores Web como: Google Chrome, Firefox, safari.</li>
+    
 </ul>
